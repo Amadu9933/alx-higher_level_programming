@@ -1,4 +1,4 @@
-#Pasword generator
+#Pasword generator in python
 
 
 import random
