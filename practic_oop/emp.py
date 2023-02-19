@@ -20,7 +20,7 @@ class Employee:
 
     def displayCount(self):
 
-            print ("Total Employee %d" % Employee.empCount)
+            print ("Total employee %d" % Employee.empCount)
 
             
 
